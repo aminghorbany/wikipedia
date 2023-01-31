@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Wikipedia" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorPrimaryVariant">@color/blue_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange_400</item>
+        <item name="colorSecondaryVariant">@color/orange_400</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="fontFamily">@font/primary_regular</item>
+    </style>
+
+    <!--my toolbar theme-->
+    <style
+        name="myToolbarTheme" parent="Theme.MaterialComponents" >
+        <item name="android:textSize">22dp</item>
+        <item name="fontFamily">@font/primary_bold</item>
+    </style>
+</resources>

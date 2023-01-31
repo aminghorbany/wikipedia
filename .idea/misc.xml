@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/drawable/bg_circle_number.xml" value="0.2" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/drawable/ic_code_24.xml" value="0.2565" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/drawable/ic_instagram_photo_icon.xml" value="0.2565" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/drawable/ic_phone_cell_contact_telephone_icon.xml" value="0.2565" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/drawable/ic_trend.xml" value="0.2595" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/drawable/ic_video_maker.xml" value="0.2495" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/drawable/ic_wikipedia_icon.xml" value="0.2495" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/activity_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/activity_chip.xml" value="0.264" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/card_item.xml" value="0.2" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/fragment_explore.xml" value="0.264" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/fragment_photographer.xml" value="0.152" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/fragment_translate.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/fragment_trend.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/fragment_video_maker.xml" value="0.176" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/fragment_writer.xml" value="0.176" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/header_main.xml" value="0.264" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/item_rv_explore.xml" value="0.2" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/layout/item_rv_trend.xml" value="0.2" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/menu/menu_above_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/menu/menu_bottom_nav.xml" value="0.2" />
+        <entry key="..\:/ANDROID STUDIO PROJECT/Wikipedia/app/src/main/res/menu/menu_navigation_drawer.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuARExplore"
+        android:icon="@drawable/ic_explore"
+        android:title="Explore" />
+    <item
+
+        android:id="@+id/menuARTrend"
+        android:icon="@drawable/ic_trend"
+        android:title="Trend" />
+    <item
+        android:id="@+id/menuARProfile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile" />
+
+</menu>
